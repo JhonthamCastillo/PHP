@@ -1,0 +1,25 @@
+﻿Servidor con DNS IP publica
+
+https://www.youtube.com/watch?v=smFec0Gi6fU
+
+http://freedns.afraid.org/signup/?plan=starter
+
+creando DNS dinamicon ip publica
+Nombre Jhonatham
+Apellido Castillo
+UserID: jhonsystem
+
+Mi Hosting propio, en mi pc Ubuntu, 93$
+contraseña: MHp,empU,93$
+usamos correo: jhonathamcast@gmail.com
+
+subdominio: jhonathamsystem.mooo.com
+
+
+usario joomla: Jhonatham
+contraseña: 123456
+
+NO-IP
+cuenta:jhonthamcast@gmail.com
+password: MHp,empU,93$
+dominio actual: jhonathamsystem.ddns.net
