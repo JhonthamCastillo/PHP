@@ -1,0 +1,16 @@
+http://jhonathamsystem.ddns.net/
+
+
+
+para poder crear un servidor wed con xampp publico usando NO-IP
+
+configuramos el moden con el DNS dinamico en nuestro caso: jhonathamsystem.ddns.net
+configuramos en corta fuego: HTTPP web service(web,...) tambien HTTPP: weservice
+
+link youtube: https://www.youtube.com/watch?v=ePTKczrHh8k&t=0s&index=2&list=LLMa_AkmCernkYUXHeq6vXzg
+https://www.youtube.com/watch?v=KuxmSbO4_6A&list=LLMa_AkmCernkYUXHeq6vXzg&index=2
+configuramos el adaptador wifi: primero activamos en activar caracteristicas de windows Cliente Telnet
+
+esto nos permitira usar en propiedades de IPv4 en DNS primario 8.8.8.8 y secundario 8.8.4.4
+mientras que agramos como ip fija nuestra ip del pc : 192.168.1.242, con tad se activa la mascara
+la puerta de enlace 192.168.1.1 

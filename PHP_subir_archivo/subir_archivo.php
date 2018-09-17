@@ -1,4 +1,4 @@
-<<?php
+<?php
 
     foreach ($_FILES["archivo_fls"] as $clave => $valor) {
       //echo "Propiedades: $clave --- Valor: $valor<br/>";
