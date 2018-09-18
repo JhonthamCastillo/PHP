@@ -1,0 +1,16 @@
+instrucciones para crear en nodejs creando sookect io
+
+npm init --yes // iniciamos el proyecto
+npm i express socket.io // instalamos el frameword express
+
+creando el comado en la seccion de scripts en package.json creando el comado
+"start":"node index.js" logramos que al ejecutar este comando se inicie el index.js
+
+con el comado npm i nodemon -D logramos que no estar reiniciando la consola y -D es para que se instale como depentecioa de desarrollo
+
+npm start //se inicia automaticamente el servidor o ejecutando el comado
+npm run dev // corremos index.js y se queda esperando cambios ademas los comados que no sean start se hacen con run
+
+
+//el servidor envia un socket.io de javascript al navegador http://jhonathamsystem.ddns.net:3000/socket.io/socket.io.js
+es como tener  un archivo de jquery que nos va a permitir al cliente conectar con el servidor

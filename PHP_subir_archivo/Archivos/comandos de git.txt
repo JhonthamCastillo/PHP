@@ -1,0 +1,15 @@
+git clone urlde_repositorio : para clonar repositorio en local
+
+los comando de git no suben carpetas vacias necesitan el archivo readme.md
+
+git add -A cuado es primer comit agrega todo
+git add archivo.txt	agrega un archivo indidual
+
+git status = nos devuelve el estado de los archivos a subir en verde
+
+git commit -m "comentario inicia commit" :crea commit un cambio despues de crear el commit subimos
+
+git log nos lista los commit que hemos realizados
+
+git pull descaarga los cambios que hemos hecho
+git push subimos los archivos a git
