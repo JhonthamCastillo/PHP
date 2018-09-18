@@ -14,3 +14,8 @@ npm run dev // corremos index.js y se queda esperando cambios ademas los comados
 
 //el servidor envia un socket.io de javascript al navegador http://jhonathamsystem.ddns.net:3000/socket.io/socket.io.js
 es como tener  un archivo de jquery que nos va a permitir al cliente conectar con el servidor
+
+//https://fonts.google.com/ link para fuentes o font de css
+YOUTUBE: Socket.io | Curso Práctico de WebSockets, con Socket.io y Nodejs | Chat con Socket.io
+Canal:Fazt
+referencia de la practica del socket.io: https://www.youtube.com/watch?v=0wqteZNqruc&index
